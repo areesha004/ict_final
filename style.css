@@ -1,0 +1,230 @@
+.container{
+    border: 2px solid black;
+    width: 100%;
+    height:5000px;
+}
+.header{
+    border: 2px solid black;
+    width: 70%;
+    height: 1700px;
+    margin-left: 700px;
+    margin-top: 200px;
+   background-image: url(./slide1.jpg);
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+
+.nav{
+    border: 2px solid black ;
+    width: 90%;
+    height: 300px;
+    margin-left: 200px;
+    margin-top: 100px;
+    background-color: beige;
+    
+}
+.nav>>img{
+    width: 300px;
+    height: 300px;
+   
+}
+
+
+.text{
+   
+    font-size: 150px;
+    padding-left: 500px;
+   padding-top: 70px;
+  
+}
+.item{
+    list-style: none;
+    float: right;
+    font-size: 50px;
+    padding-right: 60px ;
+  
+  padding-top: 80px;
+ 
+}
+.text2{
+    text-align: center;
+    font-size: 80px;
+    padding-top: 250px;
+}
+.text3{
+    padding-top: 40px;
+    text-align: center;
+    font-size: 50px;
+    color: gray;
+    
+}
+.pictures{
+    border: 2px solid white;
+    height: 700px;
+    width:70%;
+    margin-left: 750px;
+    margin-top: 200px;
+   display: flex;
+   flex-direction: row;
+   justify-content: space-between;
+
+
+}
+.sign1{
+    border: 2px solid black;
+    width: 20%;
+    height: 700px;
+    background-color: orangered;
+}
+.sign1>img{
+    padding-top: 200px;
+    padding-left: 250px;
+}
+.sign2{
+    border: 2px solid black;
+    width: 20%;
+    height: 700px;
+    background-color:green;
+}
+.sign2>img{
+    padding-top: 200px;
+    padding-left: 250px;
+}
+.sign3{
+    border: 2px solid black;
+    width: 20%;
+    height: 700px;
+    background-color: blue;
+}
+.sign3>img{
+    padding-top: 200px;
+    padding-left: 250px;
+}
+.sign4{
+    border: 2px solid black;
+    width: 20%;
+    height: 700px;
+    background-color: orange;
+}
+.sign4>img{
+    padding-top: 200px;
+    padding-left: 250px;
+}
+.porttext{
+    text-align: center;
+    font-size: 80px;
+    padding-top: 250px;
+}
+.small{
+    padding-top: 40px;
+    text-align: center;
+    font-size: 50px;
+    color: gray;
+}
+
+.scene{
+    border: 2px solid white;
+    height: 700px;
+    width:70%;
+    margin-left: 750px;
+    margin-top: 200px;
+   display: flex;
+   flex-direction: row;
+   justify-content: space-between;
+}
+.pic1{
+    border: 2px solid black;
+    width: 20%;
+    height: 700px;
+}
+.pic1>img{
+    width: 100%;
+    height: 700px;
+}
+.pic2{
+    border: 2px solid black;
+    width: 20%;
+    height: 700px;
+}
+.pic2>img{
+    width: 100%;
+    height: 700px;
+}
+.pic3{
+    border: 2px solid black;
+    width: 20%;
+    height: 700px;
+}
+.pic3>img{
+    width: 100%;
+    height: 700px;
+}
+.pic4{
+    border: 2px solid black;
+    width: 20%;
+    height: 700px;
+}
+.pic4>img{
+    width: 100%;
+    height: 700px;
+}
+
+.last{
+    border: 2px solid white;
+    height: 700px;
+    width:70%;
+    margin-left: 750px;
+    margin-top: 200px;
+   display: flex;
+   flex-direction: row;
+   justify-content: space-between;
+}
+.s1{
+    border: 2px solid black;
+    width: 20%;
+    height: 700px;
+}
+.s1>img{
+    width: 100%;
+    height: 700px;
+}
+.s2{
+    border: 2px solid black;
+    width: 20%;
+    height: 700px;
+}
+.s2>img{
+    width: 100%;
+    height: 700px;
+}
+.s3{
+    border: 2px solid black;
+    width: 20%;
+    height: 700px;
+}
+.s3>img{
+    width: 100%;
+    height: 700px;
+}
+.s4{
+    border: 2px solid black;
+    width: 20%;
+    height: 700px;
+}
+.s4>img{
+    width: 100%;
+    height: 700px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
